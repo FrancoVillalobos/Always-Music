@@ -1,0 +1,24 @@
+{
+  "name": "always-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoVillalobos/Always-Music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoVillalobos/Always-Music/issues"
+  },
+  "homepage": "https://github.com/FrancoVillalobos/Always-Music#readme",
+  "dependencies": {
+    "pg": "^8.7.3",
+    "yargs": "^17.5.1"
+  }
+}
